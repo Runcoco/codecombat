@@ -99,7 +99,7 @@ module.exports = nativeDescription: "简体中文", englishDescription: "Chinese
     help_pref: "需要帮助？请发邮件至："
     help_suff: " 我们会很快与您联系！"
     resource_hub: "资源中心"
-    apcsp: "美联社计算机科学原则"
+    apcsp: "AP课程-CSP计算机科学原理"
     parent: "家长参与"
 
   modal:
